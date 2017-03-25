@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -14,13 +15,14 @@ namespace N.H.T_Game
 {
     public partial class FormLogin : Form
     {
+        string connectionString = ConfigurationManager.ConnectionStrings["QLDiemConnectionString"].ConnectionString;
         SqlConnection connect = new SqlConnection
-            (@"Data Source=(local);Initial Catalog=
-                QLDiem;Persist Security Info=True;User ID=sa;Password=ducthangwru");
+            (@"Data Source=(local);Initial Catalog=QLDiem;Persist Security Info=True;User ID=sa;Password=ducthangwru");
 
         private string lines = "";
         private SqlDataAdapter sqlAdapter;
         private DataTable dataTable;
+
 
         public FormLogin()
         {
@@ -107,7 +109,7 @@ namespace N.H.T_Game
 
         private void bt_delete_history_Click(object sender, EventArgs e)
         {
-            connectSQL("delete from NhatKyDiem");
+            connectSQL("select * from NhatKyDiem");
             if (dataTable.Rows.Count == 0)
             {
                 connect.Close();
@@ -115,6 +117,7 @@ namespace N.H.T_Game
             }
             else
             {
+                connect.Close();
                 DialogResult dialog = MessageBox.Show("Bạn có chắc chắn muốn xóa nhật ký?", "Xóa nhật ký",
                 MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
 
@@ -146,8 +149,7 @@ namespace N.H.T_Game
             finally
             {
                 SqlConnection connect = new SqlConnection
-                (@"Data Source=(local);Initial Catalog=
-                QLDiem;Persist Security Info=True;User ID=sa;Password=ducthangwru");
+                (@"Data Source=(local);Initial Catalog=QLDiem;Persist Security Info=True;User ID=sa;Password=ducthangwru");
                 connect.Close();
             }
         }

@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -83,7 +84,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -97,39 +97,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\game_controllers.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\games_highscores.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\game.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\gnome_applications_games.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images %282%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images %281%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tải xuống.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tải xuống1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images %283%29.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\images.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
