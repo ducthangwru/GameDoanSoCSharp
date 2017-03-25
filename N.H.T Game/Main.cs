@@ -50,6 +50,19 @@ namespace N.H.T_Game
             FormState.PreviousPage.Show();
             this.Hide();
             FormState.PreviousPage = this;
+
+            timerTick.Stop();
+            DialogResult dialog = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Thoát",
+             MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (dialog != DialogResult.OK)
+            {
+                e.Cancel = true;
+            }
+            else
+            {
+                timerTick.Start();
+            }
+           
         }
 
         private void timerTick_Tick(object sender, EventArgs e)
@@ -197,5 +210,40 @@ namespace N.H.T_Game
         {
             saveScore();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+        void Quit()
+        {
+            timerTick.Stop();
+            DialogResult dialog = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Thoát",
+             MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+            if (dialog == DialogResult.OK)
+            {
+                Application.Exit();
+            }
+            else 
+            {
+                timerTick.Start();
+            }
+        }
+
+        private void mi_quitgame_Click(object sender, EventArgs e)
+        {
+            Quit();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lb_time_Click(object sender, EventArgs e)
+        {
+           
+        }
+
     }
 }
