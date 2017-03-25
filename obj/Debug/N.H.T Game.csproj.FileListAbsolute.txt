@@ -1,0 +1,22 @@
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.exe.config
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.exe
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.pdb
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.csprojResolveAssemblyReference.cache
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.Properties.Resources.resources
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.csproj.GenerateResource.Cache
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.exe
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.pdb
+c:\users\duc thang\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.Main.resources
+C:\Users\DUC THANG\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.FormLogin.resources
+C:\Users\DUC THANG\documents\visual studio 2013\Projects\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.FormSaveScore.resources
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.exe.config
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.exe
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.pdb
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.FormLogin.resources
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.FormSaveScore.resources
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.Main.resources
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T_Game.Properties.Resources.resources
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\obj\Debug\N.H.T Game.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.exe
+C:\Users\Dell\Desktop\N.H.T Game\N.H.T Game\bin\Debug\N.H.T Game.pdb
