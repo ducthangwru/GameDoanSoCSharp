@@ -1,0 +1,16 @@
+﻿Bước 1: Chọn chế độ chơi
+- Chế độ Dễ: 100s
+- Chế độ Trung bình: 50s
+- Chế độ Khó: 25s
+Bước 2: Nhập đáp án vào ô đáp án.
+Chương trình sẽ gợi ý cho bạn số bạn vừa nhập 
+là số lớn hơn hay bé hơn số của chương trình đưa ra.
+Nếu đúng bạn sẽ được số điểm tương ứng với số giây 
+(tùy thuộc hệ số của chế độ).
+Nếu hết thời gian bạn sẽ thua cuộc.
+
+Bước 3: Lưu điểm
+Bạn nhập tên của bạn và lưu điểm lại chương trình sẽ đưa ra
+lịch sử chơi và điểm cao cho bạn.
+
+---Chúc bạn chơi game vui vẻ!----

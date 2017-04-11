@@ -1,0 +1,23 @@
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\bin\Debug\N.H.T Game.exe.config
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\bin\Debug\N.H.T Game.exe
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\bin\Debug\N.H.T Game.pdb
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.TGame.csprojResolveAssemblyReference.cache
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T_Game.FormLogin.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T_Game.FormSaveScore.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T_Game.Main.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T_Game.Properties.Resources.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.TGame.csproj.GenerateResource.Cache
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T Game.exe
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\Source\N.H.T Game\obj\Debug\N.H.T Game.pdb
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\bin\Debug\N.H.T Game.exe.config
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T Game.exe
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T Game.pdb
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.TGame.csprojResolveAssemblyReference.cache
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T_Game.FormLogin.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T_Game.FormSaveScore.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T_Game.Main.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T_Game.Properties.Resources.resources
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.TGame.csproj.GenerateResource.Cache
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\bin\Debug\N.H.T Game.exe
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\bin\Debug\N.H.T Game.pdb
+C:\Users\DUC THANG\Documents\GameDoanSoCSharp\GameDoanSo_XML\N.H.T Game\obj\Debug\N.H.T_Game.SendEmail.resources
